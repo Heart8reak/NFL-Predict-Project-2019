@@ -183,5 +183,6 @@ class StatDetailAPIView(generics.RetrieveAPIView):
 
 ````
 
-12. To see our API go to the link http://127.0.0.1:8000/api/stats/
+12. To see our API make sure the server is running, go to the link http://127.0.0.1:8000/api/stats/
+
 
