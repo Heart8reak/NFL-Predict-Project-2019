@@ -1,4 +1,4 @@
-# NFL Predict Project 2019
+# NFL Predict Project 2019 Backend/API
 
 1. Using the terminal, create a directory, virtual environment, activate environment, create a src directory
 ````
